@@ -1,7 +1,7 @@
 <img src="../assets/banner.png" />
 
 # Aurora Studios
-Aurora Studios is an independent game development studio focused on creating high-quality mods for Terraria.
+Aurora Studios is an independent game development studio focused on creating high-quality mods for [Terraria](https://store.steampowered.com/app/105600/Terraria/).
 
 We craft immersive gameplay experiences with strong attention to polish, visual cohesion, and thoughtful design. Our goal is to expand the [tModLoader](https://github.com/tModLoader/tModLoader) experience without compromising its identity.
 
@@ -27,4 +27,5 @@ We welcome contributors who value polish, clarity, and thoughtful design. If you
 <p align="center">
   <i>Crafting immersive Terraria experiences.</i>
 </p>
+
 
